@@ -1,26 +1,26 @@
+<div align="center">
+
 # Dauletkhan Bulanbaev
 
-**Backend Engineer | Go Developer | Microservices & Systems**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](<LINKEDIN_URL>)
+[![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](<TELEGRAM_URL>)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:20futon05@gmail.com)
 
-I am a backend-focused software developer specializing in Go and distributed systems.  
-I design and build scalable RESTful services, microservice-based applications, and structured backend architectures.
-
-My strongest skill is Go. I am comfortable working with Linux environments, SQL databases, containerization, and infrastructure tooling. I follow Clean Architecture principles and apply software design patterns in real-world projects.
-
----
-
-## About Me
-
-- Computer Science student
-- Strong focus: **Go & Backend Development**
-- Interested in: Microservices, System Design, Cloud Architecture
-- Familiar with Clean Architecture & Design Patterns
-- Experience writing technical documentation, UML diagrams & reports
-- Basic knowledge of Java and Python (AI/ML exposure)
+</div>
 
 ---
 
-## Tech Stack
+## 👋 About Me
+
+I'm a Computer Science student with a serious focus on backend development. Go is my primary language — I've been working with it long enough that it's become the way I naturally think about problems.
+
+Most of my time goes into building backend systems: structuring services properly, making sure things scale reasonably, and not making a mess of the codebase. I care about architecture, clear interfaces, and writing code that someone else can actually work with later.
+
+Still learning, always building.
+
+---
+
+## 🛠️ Tech Stack
 
 ### Languages
 ![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -30,15 +30,11 @@ My strongest skill is Go. I am comfortable working with Linux environments, SQL 
 ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
----
-
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-%23005571.svg?style=for-the-badge&logo=elasticsearch&logoColor=white)
-
----
 
 ### Backend & Infrastructure
 ![REST API](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
@@ -47,8 +43,6 @@ My strongest skill is Go. I am comfortable working with Linux environments, SQL 
 ![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-
----
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -59,61 +53,54 @@ My strongest skill is Go. I am comfortable working with Linux environments, SQL 
 
 ---
 
-## Projects
+## 📁 Projects
 
 <details>
 <summary><strong>Click to view selected repositories</strong></summary>
 
 <br>
 
-### Tutofy  
+### Tutofy
 Microservice-based educational platform including Marketplace and LMS modules.
 
-### CS2 Marketplace  
+### CS2 Marketplace
 Small microservice-based marketplace application.
 
-### TripleS3  
-Custom lightweight S3-inspired storage service.  
+### TripleS3
+Custom lightweight S3-inspired storage service.
 Includes bucket management and RESTful APIs for object operations.
 
-### HotCoffee  
+### HotCoffee
 Monolithic backend system for a coffee ordering platform.
 
-### Parabank Automation Framework  
+### Parabank Automation Framework
 Java-based automation testing framework for banking demo application.
 
-### Full Web Application Testing  
+### Full Web Application Testing
 Comprehensive QA project including structured reporting and documentation.
 
-### GameOfLife  
+### GameOfLife
 Terminal-based implementation written in Go.
 
-### SauceDemoTestDDT  
+### SauceDemoTestDDT
 Data-driven testing project using BrowserStack.
 
 </details>
 
 ---
 
-## Engineering Focus
+## 🎯 Engineering Focus
 
-- Clean Architecture  
-- Software Design Patterns  
-- Microservices & Distributed Systems  
-- RESTful API Design  
-- Observability & Monitoring  
-- Technical Writing & Documentation  
-
----
-
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=woop1e&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=woop1e&layout=compact&theme=github_dark)
+- Clean Architecture & Design Patterns
+- Microservices & Distributed Systems
+- RESTful API Design
+- Observability & Monitoring
+- Technical Writing & Documentation
 
 ---
 
-## Contact
+## 📊 GitHub Stats
 
-Email: 20futon05@gmail.com
+![GitHub Streak](https://streak-stats.demolab.com?user=woop1e&theme=github-dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=woop1e&layout=compact&theme=github_dark&hide_border=true)
