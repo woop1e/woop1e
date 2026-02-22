@@ -1,6 +1,6 @@
 <div align="center">
 
-# Dauletkhan Bulanbaev
+# Dauletkhan Bulanbayev
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dauletkhan-bulanbayev-26b95b36b/)
 [![Telegram](https://img.shields.io/badge/Telegram-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dukench1k)
